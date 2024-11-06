@@ -1,0 +1,10 @@
+numeros=[1,2,3,4,5]
+print(numeros)
+numeros.append(6)
+print(numeros)
+numeros.pop(0)
+print(numeros)
+numeros.insert(3, 20)
+print(numeros)
+numeros.sort()
+print(numeros)
